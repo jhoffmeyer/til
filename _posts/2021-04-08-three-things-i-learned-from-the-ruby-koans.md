@@ -8,4 +8,3 @@ Here are (at least) three things I learned from [The Ruby Koans](http://rubykoan
 - one
 - two
 - three
-- 
